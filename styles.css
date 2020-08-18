@@ -62,3 +62,7 @@ button:hover{
   color: white;
   background-color: steelblue;
 }
+footer{
+  margin-top: 450px;
+  text-align: center;
+}
