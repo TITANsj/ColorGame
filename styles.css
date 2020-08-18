@@ -12,7 +12,6 @@ body{
   background-color: #232323;
   margin: 0;
   font-family: "Montserrat", "Avenir";
-  color: white;
 }
 #colorDisplay{
   font-size: 200%;
@@ -66,4 +65,5 @@ button:hover{
 footer{
   margin-top: 450px;
   text-align: center;
+  color: white;
 }
